@@ -1,0 +1,4 @@
+C:/Users/HP VICTUS/Downloads/DarkRoom/build/CMakeFiles/glad.dir
+C:/Users/HP VICTUS/Downloads/DarkRoom/build/CMakeFiles/ComputerGraphics.dir
+C:/Users/HP VICTUS/Downloads/DarkRoom/build/CMakeFiles/edit_cache.dir
+C:/Users/HP VICTUS/Downloads/DarkRoom/build/CMakeFiles/rebuild_cache.dir

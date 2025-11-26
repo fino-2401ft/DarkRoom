@@ -1,0 +1,3 @@
+C:\mingw64\bin\cmake.exe -E rm -f CMakeFiles\ComputerGraphics.dir/objects.a
+C:\mingw64\bin\ar.exe qc CMakeFiles\ComputerGraphics.dir/objects.a @CMakeFiles\ComputerGraphics.dir\objects1.rsp
+C:\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\ComputerGraphics.dir/objects.a -Wl,--no-whole-archive -o ComputerGraphics.exe -Wl,--out-implib,libComputerGraphics.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\ComputerGraphics.dir\linkLibs.rsp

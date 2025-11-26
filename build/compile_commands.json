@@ -1,0 +1,44 @@
+[
+{
+  "directory": "C:/Users/HP VICTUS/Downloads/DarkRoom/build",
+  "command": "C:\\mingw64\\bin\\gcc.exe  @CMakeFiles/glad.dir/includes_C.rsp -g -o CMakeFiles\\glad.dir\\resources\\Glad\\glad\\glad.c.obj -c \"C:\\Users\\HP VICTUS\\Downloads\\DarkRoom\\resources\\Glad\\glad\\glad.c\"",
+  "file": "C:/Users/HP VICTUS/Downloads/DarkRoom/resources/Glad/glad/glad.c",
+  "output": "CMakeFiles/glad.dir/resources/Glad/glad/glad.c.obj"
+},
+{
+  "directory": "C:/Users/HP VICTUS/Downloads/DarkRoom/build",
+  "command": "C:\\mingw64\\bin\\g++.exe -DGLFW_DLL @CMakeFiles/ComputerGraphics.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\ComputerGraphics.dir\\src\\main.cpp.obj -c \"C:\\Users\\HP VICTUS\\Downloads\\DarkRoom\\src\\main.cpp\"",
+  "file": "C:/Users/HP VICTUS/Downloads/DarkRoom/src/main.cpp",
+  "output": "CMakeFiles/ComputerGraphics.dir/src/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/HP VICTUS/Downloads/DarkRoom/build",
+  "command": "C:\\mingw64\\bin\\g++.exe -DGLFW_DLL @CMakeFiles/ComputerGraphics.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\ComputerGraphics.dir\\VecMat\\arithmetic.cpp.obj -c \"C:\\Users\\HP VICTUS\\Downloads\\DarkRoom\\VecMat\\arithmetic.cpp\"",
+  "file": "C:/Users/HP VICTUS/Downloads/DarkRoom/VecMat/arithmetic.cpp",
+  "output": "CMakeFiles/ComputerGraphics.dir/VecMat/arithmetic.cpp.obj"
+},
+{
+  "directory": "C:/Users/HP VICTUS/Downloads/DarkRoom/build",
+  "command": "C:\\mingw64\\bin\\g++.exe -DGLFW_DLL @CMakeFiles/ComputerGraphics.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\ComputerGraphics.dir\\src\\Features\\camera.cpp.obj -c \"C:\\Users\\HP VICTUS\\Downloads\\DarkRoom\\src\\Features\\camera.cpp\"",
+  "file": "C:/Users/HP VICTUS/Downloads/DarkRoom/src/Features/camera.cpp",
+  "output": "CMakeFiles/ComputerGraphics.dir/src/Features/camera.cpp.obj"
+},
+{
+  "directory": "C:/Users/HP VICTUS/Downloads/DarkRoom/build",
+  "command": "C:\\mingw64\\bin\\g++.exe -DGLFW_DLL @CMakeFiles/ComputerGraphics.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\ComputerGraphics.dir\\src\\Features\\object.cpp.obj -c \"C:\\Users\\HP VICTUS\\Downloads\\DarkRoom\\src\\Features\\object.cpp\"",
+  "file": "C:/Users/HP VICTUS/Downloads/DarkRoom/src/Features/object.cpp",
+  "output": "CMakeFiles/ComputerGraphics.dir/src/Features/object.cpp.obj"
+},
+{
+  "directory": "C:/Users/HP VICTUS/Downloads/DarkRoom/build",
+  "command": "C:\\mingw64\\bin\\g++.exe -DGLFW_DLL @CMakeFiles/ComputerGraphics.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\ComputerGraphics.dir\\src\\Features\\shader.cpp.obj -c \"C:\\Users\\HP VICTUS\\Downloads\\DarkRoom\\src\\Features\\shader.cpp\"",
+  "file": "C:/Users/HP VICTUS/Downloads/DarkRoom/src/Features/shader.cpp",
+  "output": "CMakeFiles/ComputerGraphics.dir/src/Features/shader.cpp.obj"
+},
+{
+  "directory": "C:/Users/HP VICTUS/Downloads/DarkRoom/build",
+  "command": "C:\\mingw64\\bin\\g++.exe -DGLFW_DLL @CMakeFiles/ComputerGraphics.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\ComputerGraphics.dir\\src\\Features\\texture.cpp.obj -c \"C:\\Users\\HP VICTUS\\Downloads\\DarkRoom\\src\\Features\\texture.cpp\"",
+  "file": "C:/Users/HP VICTUS/Downloads/DarkRoom/src/Features/texture.cpp",
+  "output": "CMakeFiles/ComputerGraphics.dir/src/Features/texture.cpp.obj"
+}
+]

@@ -1,0 +1,141 @@
+{
+	"configurations" : 
+	[
+		{
+			"abstractTargets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "OpenGL::GL::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-OpenGL__GL-Debug-b12e74352cc47452b459.json",
+					"name" : "OpenGL::GL",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "OpenGL::GLU::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-OpenGL__GLU-Debug-ea2cef11f25f855311b2.json",
+					"name" : "OpenGL::GLU",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Threads::Threads::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Threads__Threads-Debug-88934207fb213ca0cb97.json",
+					"name" : "Threads::Threads",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "assimp::assimp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-assimp__assimp-Debug-c0250ddaae339b3fc7f3.json",
+					"name" : "assimp::assimp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "glfw::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-glfw-Debug-929fa69d0aeecc8d5a34.json",
+					"name" : "glfw",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "glm::glm::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-glm__glm-Debug-ece335dd227cc2524876.json",
+					"name" : "glm::glm",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "glm::glm-header-only::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-glm__glm-header-only-Debug-99d961b56ed8a6219eff.json",
+					"name" : "glm::glm-header-only",
+					"projectIndex" : 0
+				}
+			],
+			"directories" : 
+			[
+				{
+					"abstractTargetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					],
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f6f22219c74102c3da70.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"abstractTargetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ComputerGraphics",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ComputerGraphics::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ComputerGraphics-Debug-dfce9848107b6b8e8795.json",
+					"name" : "ComputerGraphics",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "glad::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-glad-Debug-78734548fbf13d798017.json",
+					"name" : "glad",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/HP VICTUS/Downloads/DarkRoom/build",
+		"source" : "C:/Users/HP VICTUS/Downloads/DarkRoom"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 9
+	}
+}
