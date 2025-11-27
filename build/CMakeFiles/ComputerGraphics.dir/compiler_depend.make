@@ -684,8 +684,8 @@ CMakeFiles/ComputerGraphics.dir/src/Features/object.cpp.obj: C:/Users/HP\ VICTUS
   C:/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/syslimits.h
 
 CMakeFiles/ComputerGraphics.dir/src/Features/shader.cpp.obj: C:/Users/HP\ VICTUS/Downloads/DarkRoom/src/Features/shader.cpp \
-  C:/Users/HP\ VICTUS/Downloads/DarkRoom/resources/Glad/glad/glad.h \
   C:/Users/HP\ VICTUS/Downloads/DarkRoom/resources/Glad/glad/KHR/khrplatform.h \
+  C:/Users/HP\ VICTUS/Downloads/DarkRoom/resources/Glad/glad.h \
   C:/Users/HP\ VICTUS/Downloads/DarkRoom/VecMat/matrix.hpp \
   C:/Users/HP\ VICTUS/Downloads/DarkRoom/VecMat/vector.hpp \
   C:/Users/HP\ VICTUS/Downloads/DarkRoom/includes/Features/shader.hpp \
@@ -1072,10 +1072,10 @@ CMakeFiles/ComputerGraphics.dir/src/Features/shader.cpp.obj: C:/Users/HP\ VICTUS
   C:/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/syslimits.h
 
 CMakeFiles/ComputerGraphics.dir/src/Features/texture.cpp.obj: C:/Users/HP\ VICTUS/Downloads/DarkRoom/src/Features/texture.cpp \
-  C:/Users/HP\ VICTUS/Downloads/DarkRoom/resources/Glad/glad/glad.h \
-  C:/Users/HP\ VICTUS/Downloads/DarkRoom/resources/Glad/glad/KHR/khrplatform.h \
-  C:/Users/HP\ VICTUS/Downloads/DarkRoom/includes/Features/stb_image.h \
   C:/Users/HP\ VICTUS/Downloads/DarkRoom/includes/Features/texture.hpp \
+  C:/Users/HP\ VICTUS/Downloads/DarkRoom/resources/Glad/glad/KHR/khrplatform.h \
+  C:/Users/HP\ VICTUS/Downloads/DarkRoom/resources/Glad/glad.h \
+  C:/Users/HP\ VICTUS/Downloads/DarkRoom/includes/Features/stb_image.h \
   C:/mingw64/include/_mingw.h \
   C:/mingw64/include/_mingw_mac.h \
   C:/mingw64/include/_mingw_off_t.h \
@@ -1260,8 +1260,8 @@ CMakeFiles/ComputerGraphics.dir/src/Features/texture.cpp.obj: C:/Users/HP\ VICTU
 CMakeFiles/ComputerGraphics.dir/src/main.cpp.obj: C:/Users/HP\ VICTUS/Downloads/DarkRoom/src/main.cpp \
   C:/Users/HP\ VICTUS/Downloads/DarkRoom/VecMat/matrix.hpp \
   C:/Users/HP\ VICTUS/Downloads/DarkRoom/VecMat/vector.hpp \
-  C:/Users/HP\ VICTUS/Downloads/DarkRoom/resources/Glad/glad/glad.h \
   C:/Users/HP\ VICTUS/Downloads/DarkRoom/resources/Glad/glad/KHR/khrplatform.h \
+  C:/Users/HP\ VICTUS/Downloads/DarkRoom/resources/Glad/glad.h \
   C:/Users/HP\ VICTUS/Downloads/DarkRoom/includes/Features/camera.hpp \
   C:/Users/HP\ VICTUS/Downloads/DarkRoom/includes/Features/mesh.hpp \
   C:/Users/HP\ VICTUS/Downloads/DarkRoom/includes/Features/model.hpp \
@@ -1865,6 +1865,8 @@ C:/mingw64/include/c++/15.2.0/cstring:
 
 C:/Users/HP\ VICTUS/Downloads/DarkRoom/includes/Features/shader.hpp:
 
+C:/Users/HP\ VICTUS/Downloads/DarkRoom/resources/Glad/glad.h:
+
 C:/Users/HP\ VICTUS/Downloads/DarkRoom/resources/Glad/glad/KHR/khrplatform.h:
 
 C:/Users/HP\ VICTUS/Downloads/DarkRoom/src/Features/shader.cpp:
@@ -1976,8 +1978,6 @@ C:/mingw64/include/glm/ext/matrix_float2x4_precision.hpp:
 C:/mingw64/include/glm/ext/matrix_float4x4_precision.hpp:
 
 C:/mingw64/include/glm/ext/matrix_float2x4.hpp:
-
-C:/Users/HP\ VICTUS/Downloads/DarkRoom/resources/Glad/glad/glad.h:
 
 C:/mingw64/include/glm/ext/matrix_float2x3_precision.hpp:
 

@@ -1,7 +1,7 @@
 CMakeFiles/ComputerGraphics.dir/src/main.cpp.obj: \
  C:\Users\HP\ VICTUS\Downloads\DarkRoom\src\main.cpp \
  C:/Users/HPVICT~1/DOWNLO~1/DarkRoom/includes/Features/render.hpp \
- C:/Users/HP\ VICTUS/Downloads/DarkRoom/resources/Glad/glad/glad.h \
+ C:/Users/HPVICT~1/DOWNLO~1/DarkRoom/RESOUR~1/glad/glad.h \
  C:/Users/HPVICT~1/DOWNLO~1/DarkRoom/RESOUR~1/Glad/glad/KHR/khrplatform.h \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/stdint.h \
  C:/mingw64/include/stdint.h C:/mingw64/include/crtdefs.h \
